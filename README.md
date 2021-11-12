@@ -4,7 +4,7 @@ ML2_dat158
 
 Submission for the assignment in dat158. 
 
-I wasn't able to actually able to deploy the model fully due to a RuntimeError as shown in the picture.
+I wasn't actually able to deploy the model fully due to a RuntimeError as shown in the picture.
 Some help here would be much appreciated.
 
 
